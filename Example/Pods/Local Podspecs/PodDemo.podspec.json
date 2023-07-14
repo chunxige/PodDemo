@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of PodDemo.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/gechunxi_pro14/PodDemo",
+  "homepage": "https://github.com/chunxige/PodDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "gechunxi_pro14": "1193700248@qq.com"
   },
   "source": {
-    "git": "https://github.com/gechunxi_pro14/PodDemo.git",
+    "git": "https://github.com/chunxige/PodDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {
