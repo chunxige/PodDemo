@@ -1,0 +1,22 @@
+{
+  "name": "PodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of PodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gechunxi_pro14/PodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gechunxi_pro14": "1193700248@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/gechunxi_pro14/PodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodDemo/Classes/**/*"
+}
